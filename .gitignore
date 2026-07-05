@@ -1,0 +1,17 @@
+﻿__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+*.db
+*.sqlite
+*.sqlite3
+node_modules/
+frontend/node_modules/
+*.zip
+analysis_response.json
+upload_response.json
+dist/
+build/
+.env
